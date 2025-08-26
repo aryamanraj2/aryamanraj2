@@ -14,7 +14,7 @@ I'm a passionate full-stack developer who loves crafting digital experiences tha
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryaman-jaiswal-a3b3612b9/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryamanj250@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryamanj250)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aryamanraj2)
 <br />
 </div>
 
@@ -48,8 +48,8 @@ I'm a passionate full-stack developer who loves crafting digital experiences tha
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryamanj250&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamanj250&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryamanraj2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamanraj2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180">
 </div>
 
 <div align="center">
@@ -59,7 +59,7 @@ I'm a passionate full-stack developer who loves crafting digital experiences tha
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryamanj250&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryamanraj2&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%">
 </div>
 
 ## Let's Collaborate!
