@@ -20,7 +20,7 @@ I'm a passionate full-stack developer who loves crafting digital experiences tha
 
 
 
-## 🛠️ Tech Stack
+## ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20">&nbsp;Skills
 
 ### Languages & Frameworks
 <div align="left">
@@ -45,7 +45,7 @@ I'm a passionate full-stack developer who loves crafting digital experiences tha
   <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white" />
 </div>
 
-## 📊 GitHub Analytics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aryamanraj2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180">
