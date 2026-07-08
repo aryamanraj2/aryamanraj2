@@ -18,50 +18,6 @@ I'm a passionate full-stack developer who loves crafting digital experiences tha
 <br />
 </div>
 
-
-
-## ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20">&nbsp;Skills
-
-### Languages & Frameworks
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,swift,js,ts,dart,py,html,css&perline=9" />
-</div>
-
-### Technologies & Frameworks
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=apple,gradle,flutter,react,nodejs,threejs,materialui,firebase&perline=8" />
-</div>
-
-### Tools & Environment
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,npm,idea,pycharm,vim,linux,arch,obsidian&perline=11" />
-</div>
-
-### Additional Skills
-<div align="center">
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material%20Design%203-1976D2?style=for-the-badge&logo=materialdesign&logoColor=white" />
-  <img src="https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge&logo=square&logoColor=white" />
-</div>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryamanraj2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamanraj2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180">
-</div>
-
-<div align="center">
-
-</div> 
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryamanraj2&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%">
-</div>
-
 ## Let's Collaborate!
 
 connect me through my email aryamanj250@gmail.com
